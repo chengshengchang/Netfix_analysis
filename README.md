@@ -1,5 +1,5 @@
-# Netfix_analysis
-## It's a Netfix_analysis practice , working with mock data , and solve task .
+# Netflix_analysis
+## It's a Netflix_analysis practice , working with mock data , and solve task .
 
 ### Task 1 : What is the most popular release year for movies on Netflix ?
 ### Task 2 : What year did netflix add the most movie to its platform ?
